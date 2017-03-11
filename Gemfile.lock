@@ -1,7 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    jdbc-teradata (0.2.0)
     terminal-table (1.4.5)
     trollop (2.0)
 
@@ -10,6 +9,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jdbc-teradata (~> 0.2.0)
   terminal-table
   trollop
